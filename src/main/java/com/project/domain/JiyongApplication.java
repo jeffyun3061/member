@@ -10,4 +10,6 @@ public class JiyongApplication {
 		SpringApplication.run(JiyongApplication.class, args);
 	}
 
+
 }
+
